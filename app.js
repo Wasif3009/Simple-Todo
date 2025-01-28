@@ -22,7 +22,7 @@ while (userInput !== "quit" && userInput !== "q") {
   }
   userInput = prompt("WHAT WOULD U LIKE TO DO");
 }
-console.log("OK YOU QUITTED THE APP");
+console.log("OK YOU QUITTED");
 
 // THE PROGRAM IS DONE
 // ISKE BAAD EK PRACTICE BHI KIYA HU USMAI EK FLAWS BHI SOLVE KIYE
